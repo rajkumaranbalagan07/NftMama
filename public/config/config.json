@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2b6D51f4cA448EacEA715c4886EA065DcA4e0E4F",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2b6d51f4ca448eacea715c4886ea065dca4e0e4f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "NFT MAM2",
+  "SYMBOL": "NFTMAMA2",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.0075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nft-mam2",
+  "SHOW_BACKGROUND": true
+}
